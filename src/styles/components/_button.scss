@@ -7,8 +7,9 @@
     white-space: nowrap;
 
     &--primary {
-        color: #fff;
-        background-color: #CA0102;
+        color:#fff;
+        background-color: #000000cc;
+        border: solid 1px #fff;
     }
 
     @media (max-width: 640px) {
